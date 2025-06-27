@@ -14,6 +14,17 @@ This is a simple and responsive web application that generates random passwords.
 - `images/copy.png` – Icon used for the copy button
 - `images/generate.png` – Icon used for the generate button
 
+## Project Structure
+├── index.html          # Main HTML file
+
+├── style.css           # Styling for the app
+
+├── images/
+
+│   ├── copy.png        # Copy icon
+
+│   └── generate.png    # Generate icon
+
 ## 🖥️ How to Use
 1. Download or clone the repository.
 2. Make sure the `images` folder contains the icons: `copy.png` and `generate.png`.
